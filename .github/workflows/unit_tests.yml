@@ -1,7 +1,5 @@
 - name: Checkout
   uses: actions/checkout@v4
-name: Unit Tests
-run-name: Run Unit Tests
 on:
   push:
     branches-ignore:
